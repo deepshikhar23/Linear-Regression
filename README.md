@@ -6,8 +6,11 @@ This repository contains code and examples for implementing and understanding li
 The repository contains the following files:
 
 linear_regression_implementation.ipynb: A Jupyter notebook that provides an introduction to linear regression, including its assumptions, implementation in Python using scikit-learn, and examples using real-world datasets.
+
 data: A directory containing example datasets used in the Jupyter notebook.
+
 README.md: This file.
+
 
 ## Dependencies
 The following dependencies are required to run the Jupyter notebook:
