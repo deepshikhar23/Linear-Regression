@@ -36,3 +36,9 @@ The notebook will open in your default web browser. You can then run the cells i
 ## Contributions
 
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Note: The above notebook is just an implementation of a simple dataset.
+
+It covers the implementation of 'Linear Regression in One Variable' with nd without using Scikit-learn.
+
+This demonstrates how we get the same result whether we use the hardcore coding way or using advanced libraries like Scikit-learn which make the implementation very easy.
