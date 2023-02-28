@@ -16,22 +16,23 @@ README.md: This file.
 The following dependencies are required to run the Jupyter notebook:
 
 Python 3.x
+
 NumPy
+
 Pandas
+
 Matplotlib
+
 Scikit-learn
 
-## Installation
-To install the required dependencies, run the following command:
 
-Copy code
-pip install -r requirements.txt
-Usage
+## Usage
 To run the Jupyter notebook, navigate to the root directory of the repository and run the following command:
 
-Copy code
-jupyter notebook linear_regression.ipynb
+jupyter notebook linear_regression_implementation.ipynb
+
 The notebook will open in your default web browser. You can then run the cells in the notebook to explore linear regression and the example datasets.
 
 ## Contributions
+
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
